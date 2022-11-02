@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-XunFei.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\Unreal Project\HCI_EARTH_C\Intermediate\Build\Win64\HCI_EARTH_CEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"G:\Unreal Project\HCI_EARTH_C\Plugins\XunFei\XunFei\Intermediate\Build\Win64\UE4Editor\Development\XunFei\Module.XunFei.cpp.obj"
+"G:\Unreal Project\HCI_EARTH_C\Plugins\XunFei\XunFei\Intermediate\Build\Win64\UE4Editor\Development\XunFei\Module.XunFei.gen.cpp.obj"
+"G:\Unreal Project\HCI_EARTH_C\Plugins\XunFei\XunFei\Intermediate\Build\Win64\UE4Editor\Development\XunFei\Default.rc2.res"
+/OUT:"G:\Unreal Project\HCI_EARTH_C\Plugins\XunFei\XunFei\Intermediate\Build\Win64\UE4Editor\Development\XunFei\UE4Editor-XunFei.lib"

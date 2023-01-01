@@ -6,3 +6,4 @@ This is a globe that can interact in a few different ways.
 
 ## Guide
 Unreal Engine 4 version: 4.27
+If you want to examine the scripts of the game, you can find Blueprint programs under Content/BP.
